@@ -13,19 +13,19 @@
   }
 
   &--phone {
-    background-image: url(/images/phone.svg);
+    background-image: url(./images/phone.svg);
   }
 
   &--menu {
-    background-image: url(/images/menu.svg);
+    background-image: url(./images/menu.svg);
 
     &:hover {
-      background-image: url(/images/menu-hover.svg);
+      background-image: url(./images/menu-hover.svg);
     }
   }
 
   &--close {
-    background-image: url(/images/menu-close.svg);
+    background-image: url(./images/menu-close.svg);
   }
 
   &__tooltip {
