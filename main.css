@@ -134,13 +134,13 @@ ul {
 }
 
 .header {
-  background-image: url(/images/header.jpg);
+  background-image: url(./images/header.jpg);
   background-size: cover;
   background-position: center;
 }
 @media (max-width: 743px) {
   .header {
-    background-image: url(/images/header-mobile.jpg);
+    background-image: url(./images/header-mobile.jpg);
   }
 }
 .header__top {
@@ -227,16 +227,16 @@ ul {
   }
 }
 .icon--phone {
-  background-image: url(/images/phone.svg);
+  background-image: url(./images/phone.svg);
 }
 .icon--menu {
-  background-image: url(/images/menu.svg);
+  background-image: url(./images/menu.svg);
 }
 .icon--menu:hover {
-  background-image: url(/images/menu-hover.svg);
+  background-image: url(./images/menu-hover.svg);
 }
 .icon--close {
-  background-image: url(/images/menu-close.svg);
+  background-image: url(./images/menu-close.svg);
 }
 .icon__tooltip {
   display: block;
@@ -616,7 +616,7 @@ ul {
 
 .footer {
   height: 555px;
-  background-image: url(images/footer.jpg);
+  background-image: url(./images/footer.jpg);
   background-position: center;
   background-size: cover;
 }
